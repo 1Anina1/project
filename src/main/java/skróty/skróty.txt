@@ -1,2 +1,5 @@
 CTRL + ALT + L   ==>   Formatowanie kodu
+CTRL + Q         ==>   Dokumentacja klasy/ metody
+CTRL + D         ==>   Kopiowanie lini i wklejenie jej pod spodem
+CTRL + Y         ==>   Usuwanie bierzącej lini
 sout + TAB       ==>   System.out.println();
