@@ -1,0 +1,2 @@
+CTRL + ALT + L   ==>   Formatowanie kodu
+sout + TAB       ==>   System.out.println();
