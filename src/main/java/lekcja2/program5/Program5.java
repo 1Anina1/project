@@ -16,15 +16,3 @@ public class Program5 {
     }
 
 }
-
-/*
-
-1 / 5 = 0 reszta 1
-2 / 5 = 0 reszta 2
-3 / 5 = 0 reszta 3
-4 / 5 = 0 reszta 4
-5 / 5 = 1 reszta 0
-6 / 5 = 1 reszta 1
-7 / 5 = 1 reszta 2
-
- */
