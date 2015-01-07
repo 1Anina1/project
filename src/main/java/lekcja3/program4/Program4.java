@@ -68,9 +68,4 @@ public class Program4 {
         return roznica;
     }
 
-    //TODO napisac dodatkowe metody obliczające:
-    //TODO różnicę elementów
-    //TODO minimum z elementów
-    //TODO maximum z elementów
-
 }

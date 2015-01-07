@@ -1,0 +1,1 @@
+Dana jest tablica Słowa[] zawierająca elementy klasy String. Należy napisać klasę, która wyszuka wszystkie elementy rozpoczynające się na zadany tekst (zmienna Początek klasy String) oraz podającą sumę wszystkich znaków zawartych w tablicy Słowa. Klasę należy napisać w języku Java. 

@@ -1,0 +1,3 @@
+Dana jest tablica DaneWynikowe, zawierająca elementy typu double. Utwórz klasę
+umożliwiającą wyszukanie najmniejszej i największej wartości w tablicy oraz
+wyliczającą wartość średnią. Klasa ma być napisana w języku Java.
