@@ -1,5 +1,7 @@
 package lekcja4.program1;
 
+import lekcja4.program3.MinMaxAvg;
+
 import java.util.Random;
 
 /**
@@ -9,6 +11,7 @@ public class Program1 {
     public static void main(String[] args) {
         int[][] numbers = new int[3][3];
         Random random = new Random();
+        MinMaxAvg avg = new MinMaxAvg();
 
         for (int i = 0; i < numbers.length; i++) {
             for (int j = 0; j < numbers.length; j++) {
@@ -17,5 +20,7 @@ public class Program1 {
             }
             System.out.println();
         }
+
+
     }
 }
