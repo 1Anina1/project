@@ -3,6 +3,7 @@ package lekcja4.program1;
 import java.util.Random;
 
 /**
+ * Losowe liczby w tablicy
  * Author: Amina
  */
 public class Program1 {

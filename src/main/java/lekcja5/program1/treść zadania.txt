@@ -1,0 +1,3 @@
+Dana jest tablica words[] zawierająca elementy klasy String. Należy napisać klasę, która
+wyszuka ile jest elementów rozpoczynających się na zadany tekst (zmienna startingText klasy String)
+oraz podającą sumę wszystkich znaków zawartych w tablicy Słowa. Klasę należy napisać w języku Java.

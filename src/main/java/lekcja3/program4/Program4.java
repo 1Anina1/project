@@ -3,6 +3,7 @@ package lekcja3.program4;
 import java.util.Random;
 
 /**
+ * Klasa licząca minimum, maximum, średnią
  * Author: Amina
  */
 public class Program4 {

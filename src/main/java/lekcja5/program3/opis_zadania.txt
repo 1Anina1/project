@@ -1,0 +1,5 @@
+Utworzyć klase Figura która będzie posiadać pole nazwaFigury, utowrzyć do niej kontruktor oraz metodę toString()
+Napisać dwie klasy dziedziczące po klasie Figura: Koło, Kwadrat.
+Koło będzie miało zmienną klasową dlPromienia, kwadrat dłBoku.
+Napisać metody w klasie Koło oraz kwadrat liczące Polepowierzchni, oraz obwód figur.
+Wypisać wyniki programu.
