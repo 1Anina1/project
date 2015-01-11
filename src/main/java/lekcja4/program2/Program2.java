@@ -3,6 +3,7 @@ package lekcja4.program2;
 import java.util.Random;
 
 /**
+ * Tablice trójwymiarowe
  * Author: Amina
  */
 public class Program2 {

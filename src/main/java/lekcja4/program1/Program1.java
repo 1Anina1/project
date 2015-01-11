@@ -5,6 +5,7 @@ import lekcja4.program3.MinMaxAvg;
 import java.util.Random;
 
 /**
+ * Losowe liczby w tablicy
  * Author: Amina
  */
 public class Program1 {
