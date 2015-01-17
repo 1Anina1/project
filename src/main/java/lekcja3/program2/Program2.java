@@ -2,7 +2,7 @@ package lekcja3.program2;
 
 /**
  * Tworzenie wlasnej metody
- * Author: Daniel
+ * Author: Amina
  */
 public class Program2 {
 

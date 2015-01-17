@@ -4,7 +4,6 @@ import lekcja5.program2.workers.Doctor;
 import lekcja5.program2.workers.Programmer;
 import lekcja5.program2.workers.Worker;
 
-import javax.print.Doc;
 
 /**
  * Author: Amina
@@ -19,6 +18,7 @@ public class Program2 {
         System.out.println(worker);
         System.out.println(doctor);
         System.out.println(programmer);
+
     }
 
 }

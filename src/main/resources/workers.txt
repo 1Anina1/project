@@ -1,0 +1,5 @@
+1;Karol;Kowalski;10000.0
+2;Karolina;Malinowska;15000.0
+3;Tomasz;Jacyków;12000.0
+4;Magda;Sosnowska;8000.0
+5;Jacek;Domagalski;6500.0

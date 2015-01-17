@@ -5,3 +5,4 @@ CTRL + Y                    ==>   Usuwanie bierzącej lini
 sout + TAB                  ==>   System.out.println();
 ALT + INSERT                ==>   Generowanie konstruktora, getterów, setterów oraz metody toString
 CTRL + SHIFT + góra/dół     ==>   Przenoszenie lini w górę/ dół
+ALT + ENTER                 ==>   Gdy jesteśmy na lini z błędem program pomoże nam go rozwiązać
