@@ -37,7 +37,6 @@ public class WorkerDao {
         } catch (FileNotFoundException e){
             System.out.println("Plik nie istnieje");
         }
-
         return workers;
     }
 
