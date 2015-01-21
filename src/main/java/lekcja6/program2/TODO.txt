@@ -1,3 +1,4 @@
 Należy wczytac plik shapes.txt. Każdy wiersz pliku shapes.txt to obiekt klasy Circle, który należy utowrzyć.
 Wzorując sie na projektcie z lekcji 6 i program 1, należy wczytać dane i wyświetlić inforacje o figurach:
-Pole powierzchni oraz obwód.
+Pole powierzchni oraz obwód, np:
+Koło1, pole: 20.3, obówd: 18.3
